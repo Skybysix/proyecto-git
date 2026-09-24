@@ -1,5 +1,5 @@
-# Mi primer proyecto con Git
-Proyecto de práctica para aprender Git.
+# ME CAGO EN TODO LO CAGABLE HE TENIDO QUE VOLVER A C REAR UNA CARPETA
+Creo que el error era que no estaba en ,mi carpeta c:
 
-## Contacto
-Formulario de contacto pendiente de desarrollon
+## 
+
